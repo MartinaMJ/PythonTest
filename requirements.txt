@@ -1,0 +1,5 @@
+matplotlib
+bokeh
+ipywidgets
+PIL
+numpy
